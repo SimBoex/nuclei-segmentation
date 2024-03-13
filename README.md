@@ -4,6 +4,6 @@
 
 
 # Setup:
-- conda create -p venv python==3.11 -y
+- conda create -p nuclei python==3.11 -y
 - pip install -r requirements.txt
 
